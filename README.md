@@ -8,6 +8,7 @@ The well-conditioned multi-product formula (MPF), proposed by [Low, Kliuchnikov,
 
 # Citation
 
+```bibtex
 @misc{aftab2024multiproducthamiltoniansimulationexplicit,
   title={Multi-product Hamiltonian simulation with explicit commutator scaling}, 
   author={Junaid Aftab and Dong An and Konstantina Trivisa},
